@@ -1,12 +1,9 @@
-package recursive_backtracker;
-
-import common.*;
 
 import java.applet.*;
 import java.awt.*;
 import java.util.*;
 
-public class MainSquare extends Applet {
+public class RecursiveBacktracker extends Applet {
 	
 	Graphics g;
 	
