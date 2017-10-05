@@ -1,13 +1,9 @@
-package kruskal;
-
-import common.*;
-import common.Set;
 
 import java.applet.*;
 import java.awt.*;
 import java.util.*;
 
-public class MainSquare extends Applet {
+public class Kruskals extends Applet {
 	
 	Graphics g;
 	
