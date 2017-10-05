@@ -1,12 +1,9 @@
-package recursive_divider;
-
-import common.*;
 
 import java.applet.*;
 import java.awt.*;
 import java.util.*;
 
-public class Main extends Applet {
+public class RecursiveDivider extends Applet {
 	
 	Graphics g;
 	
